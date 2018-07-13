@@ -1,5 +1,6 @@
 {
   "name": "react-form-components",
+  "homepage": "https://github.com/edieblu/react-controlled-form-components",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
